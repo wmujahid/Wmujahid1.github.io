@@ -22,8 +22,14 @@ body {
 }
 
 .navbar {
+  display: grid;
+  grid-template-rows: 4fr 4fr 4fr 4fr;
+  grid-template-columns: 4fr 4fr 4fr 4fr;
   /* overflow: hidden;
   background-color: #333; */
+}
+
+.headerlink {
 }
 
 .navbar a {
@@ -36,11 +42,11 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: transparent;
   color: black;
 }
 
 .navbar a.active {
-  background-color: #04AA6D;
-  color: white;
+  /* background-color: #04AA6D; */
+  color: black;
 }
