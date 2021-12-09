@@ -1,2 +1,2 @@
 # This is my portfolio!
-# Github Pages link: https://pages.git.generalassemb.ly/wmujahid1/portfolio/
+# Github Pages link: https://wmujahid.github.io/Wmujahid1.github.io/
